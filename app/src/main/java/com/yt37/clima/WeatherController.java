@@ -30,7 +30,7 @@ import cz.msebera.android.httpclient.Header;
 
 public class WeatherController extends AppCompatActivity {
     final String url = "http://api.openweathermap.org/data/2.5/weather";
-    final String appId = "b274c054ae9cd9cb734082db041caf4c";
+    final String appId = "GetAPIID";
 
     final int reqCode = 123;
 
